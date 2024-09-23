@@ -23,8 +23,8 @@ import these data：
 | game logo                   | image  |
 | game cover                  | image  |
 | completion                  | number |
-| achieved achievements count | number |
-| total achievements count    | number |
+| achieved achievements | number |
+| total achievements    | number |
 
 ## Automated with Github Action
 
