@@ -50,7 +50,7 @@ github action中所用到了如下变量：
 | ------------------------- | -------- | -------------------------- |
 | STEAM_API_KEY             | string   | steamapi密钥               |
 | STEAM_USER_ID             | string   | 要查询用户的steamid        |
-| NOTION_DATABASE_API_KEY   | string   | notionapi密钥              |
+| NOTION_API_KEY   | string   | notionapi密钥              |
 | NOTION_DATABASE_ID        | string   | 你需要修改的notion数据库id |
 | enable_item_update        | string   | 是否包含项目更新           |
 
