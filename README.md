@@ -52,7 +52,7 @@ github action workflowed used these variables.
 | ------------------------- | ------ | ---------------------------------------------- |
 | STEAM_API_KEY             | string | steam api key                                  |
 | STEAM_USER_ID             | string | steam user id you want fetch data from         |
-| NOTION_DATABASE_API_KEY   | string | notion api key                                 |
+| NOTION_API_KEY   | string | notion api key                                 |
 | NOTION_DATABASE_ID        | string | the notion data base id you wanted to imported |
 | enable_item_update        | string | whether to include item update                 |
 
